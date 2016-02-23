@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaquaeextanta00salluoft_0071.png"; bbox 0 0 2722 4146; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 812 1557 1732 1749">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 812 1557 1732 1749">
+     <span class='ocr_line' id='line_1_1' title="bbox 812 1557 1732 1749; baseline 0 2397"><span class='ocrx_word' id='word_1_1' title='bbox 812 1557 1732 1749; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 359 1910 2189 1991">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 359 1910 2189 1991">
+     <span class='ocr_line' id='line_1_2' title="bbox 359 1910 2189 1991; baseline 0.006 -10"><span class='ocrx_word' id='word_1_2' title='bbox 359 1910 445 1982; x_wconf 87' lang='lat' dir='ltr'><strong>C.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 527 1910 877 1984; x_wconf 90' lang='lat' dir='ltr'>CRISPI</span> <span class='ocrx_word' id='word_1_4' title='bbox 957 1911 1546 1987; x_wconf 91' lang='lat' dir='ltr'>SALLUSTII</span> <span class='ocrx_word' id='word_1_5' title='bbox 1626 1916 1762 1988; x_wconf 91' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1838 1919 2189 1991; x_wconf 90' lang='lat' dir='ltr'>BELLO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 570 2128 1965 2213">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 570 2128 1965 2213">
+     <span class='ocr_line' id='line_1_3' title="bbox 570 2128 1965 2213; baseline 0.006 -14"><span class='ocrx_word' id='word_1_7' title='bbox 570 2128 1314 2213; x_wconf 90' lang='lat' dir='ltr'>JUGURTHINO</span> <span class='ocrx_word' id='word_1_8' title='bbox 1396 2132 1965 2207; x_wconf 89' lang='lat' dir='ltr'><strong>HISTORIA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1134 2348 1416 2415">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1134 2348 1416 2415">
+     <span class='ocr_line' id='line_1_4' title="bbox 1134 2348 1416 2415; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 1134 2348 1416 2415; x_wconf 46' lang='lat' dir='ltr'><em>w</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
